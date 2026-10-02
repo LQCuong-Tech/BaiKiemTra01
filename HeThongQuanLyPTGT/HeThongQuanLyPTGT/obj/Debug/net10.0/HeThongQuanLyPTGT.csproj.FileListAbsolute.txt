@@ -1,0 +1,15 @@
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.exe
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.deps.json
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.runtimeconfig.json
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.dll
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.pdb
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.AssemblyInfoInputs.cache
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.AssemblyInfo.cs
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.csproj.CoreCompileInputs.cache
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.dll
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\refint\HeThongQuanLyPTGT.dll
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.pdb
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.genruntimeconfig.cache
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\ref\HeThongQuanLyPTGT.dll
+D:\LT .Net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQ.464233DA.Up2Date
