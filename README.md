@@ -1,5 +1,4 @@
-# BaiKiemTra01
-//Lương Quốc Cường 24810310195
+#Phan I.PHẦN LÝ THUYẾT & CÂU HỎI NGẮN
 
 Câu 1: Cơ chế lưu trữ vùng nhớ của Value Types và Reference Types trong C#
 
