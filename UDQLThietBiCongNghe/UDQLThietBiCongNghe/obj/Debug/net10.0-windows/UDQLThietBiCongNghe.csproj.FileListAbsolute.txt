@@ -1,0 +1,17 @@
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.csproj.GenerateResource.cache
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.AssemblyInfoInputs.cache
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.AssemblyInfo.cs
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.csproj.CoreCompileInputs.cache
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.Product.resources
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\bin\Debug\net10.0-windows\UDQLThietBiCongNghe.exe
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\bin\Debug\net10.0-windows\UDQLThietBiCongNghe.deps.json
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\bin\Debug\net10.0-windows\UDQLThietBiCongNghe.runtimeconfig.json
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\bin\Debug\net10.0-windows\UDQLThietBiCongNghe.dll
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\bin\Debug\net10.0-windows\UDQLThietBiCongNghe.pdb
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.dll
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\refint\UDQLThietBiCongNghe.dll
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.pdb
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThietBiCongNghe.genruntimeconfig.cache
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\ref\UDQLThietBiCongNghe.dll
+D:\LT .Net\UDQLThietBiCongNghe\UDQLThietBiCongNghe\obj\Debug\net10.0-windows\UDQLThie.8A218053.Up2Date
